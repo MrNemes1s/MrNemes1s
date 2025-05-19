@@ -18,9 +18,9 @@
 <br>
 
 <p align="center">
-  <strong>💬 Ask me about:</strong> Generative AI, MLOps, and LLMs<br>
+  <strong>💬 Ask me about:</strong> Generative AI, MLOps, and Data Science <br>
   <strong>📫 How to reach me:</strong> <a href="mailto:gopalpadhi8@hotmail.com">gopalpadhi8@hotmail.com</a><br>
-  <strong>⚡ Fun fact:</strong> I love to play Counter-Strike
+  <strong>⚡ Fun fact:</strong> I am a Gamer.
 </p>
 
 <hr>
@@ -64,9 +64,9 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gops-8&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrNemes1s&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gops-8&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&locale=en" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gops-8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNemes1s" alt="GitHub Streak" />
 </p>
