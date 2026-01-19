@@ -3,7 +3,7 @@
   
   # Hi there, I'm Gopal Padhi 👋
   
-  ### Machine Learning Engineer | AI Solutions Architect | Data Science Leader
+  ### Machine Learning Engineer | AI Solutions Architect | Founder @ RevonexLabs
   
   <p>
     <a href="https://twitter.com/i_am_gops_">
@@ -27,103 +27,142 @@
 
 ## 🚀 About Me
 
-I'm the **Founder & Leader of RevonexLabs**, specializing in AI-powered solutions for manufacturing analytics and enterprise data science. I bridge the gap between cutting-edge machine learning and real-world business applications.
+**Founder & Leader of RevonexLabs** - Building AI-powered solutions for manufacturing analytics and enterprise data science. I specialize in transforming complex data challenges into production-ready ML systems.
 
-- 🔭 Currently building **AI-powered document extraction systems** using Vision Language Models
-- 🏭 Developing **manufacturing analytics dashboards** and predictive models for production optimization
-- 🤖 Expertise in **Generative AI, MLOps, and Time Series Analysis**
-- 🎮 Fun fact: **Avid gamer** with a passion for streaming and PC builds
-- 💬 Ask me about **Python, ML pipelines, and scaling AI solutions**
+- 🔬 **Research & Prototyping**: Exploring Vision Language Models (Qwen2.5-VL) for document extraction
+- 🏭 **Production Systems**: Manufacturing analytics dashboards, OEE optimization, predictive maintenance
+- 🧪 **Experimentation**: Time series forecasting, anomaly detection, AutoML frameworks
+- 🎮 **Side Quest**: Avid gamer with a high-end streaming setup
+- 💬 **Let's talk**: Generative AI, MLOps, Manufacturing Analytics, or your next ML project
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Core Expertise
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### AI/ML & Data Science
+### ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Cloud & DevOps
+### Cloud & Production
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Data & Analytics
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20B2AA?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
-## 💼 What I'm Working On
+## 💼 Current Focus
 ```python
-class GopalPadhi:
+class CurrentWork:
     def __init__(self):
-        self.role = "ML Engineer & Founder"
         self.company = "RevonexLabs"
-        self.focus_areas = [
-            "Vision Language Models (Qwen2.5-VL)",
-            "Manufacturing Analytics & OEE Optimization",
-            "MLOps & Model Deployment",
-            "Document Processing & Financial AI"
-        ]
-        self.current_projects = {
-            "ai_extraction": "Fine-tuning VLMs for financial documents",
-            "analytics": "Production forecasting & anomaly detection",
-            "infrastructure": "CI/CD pipelines for Azure ML"
+        self.clients = ["HTT", "Golgix"]
+        
+    def active_projects(self):
+        return {
+            "ai_research": {
+                "model": "Qwen2.5-VL",
+                "task": "Financial document extraction & fine-tuning",
+                "focus": "Accuracy optimization for production deployment"
+            },
+            "manufacturing_analytics": {
+                "dashboards": "Apache Superset with Handlebars templating",
+                "metrics": "OEE, downtime tracking, production forecasting",
+                "automation": "Automated reporting & anomaly detection"
+            },
+            "infrastructure": {
+                "deployment": "Cloudflare Pages, Azure ML pipelines",
+                "workflows": "CI/CD automation, git worktree workflows",
+                "stack": "Python, SQL, Docker, cloud services"
+            }
         }
     
     def get_expertise(self):
-        return ["Python", "Machine Learning", "Data Engineering", "Cloud Architecture"]
+        return [
+            "Vision Language Models & Fine-tuning",
+            "Manufacturing Analytics & Time Series",
+            "MLOps & Model Deployment",
+            "Data Engineering & Pipeline Design"
+        ]
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemes1s&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?theme=radical&user=MrNemes1s&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&user=MrNemes1s" alt="GitHub Streak" />
+  
+  ### 🔥 Most Active in Research & Prototyping
+  *My public repos focus on experimentation and ML research - production code lives in private client repositories*
+  
 </div>
 
 ---
 
-## 🏆 Highlights
+## 🏆 Key Achievements
 
-- 🚀 Built end-to-end ML pipelines for manufacturing clients
-- 📈 Deployed production-grade analytics dashboards using Apache Superset
-- 🤖 Developed AI-powered document extraction systems
-- 🎯 Led technical teams in implementing MLOps best practices
-- 📊 Created automated reporting systems for OEE and production metrics
+🚀 **RevonexLabs Leadership**
+- Founded and scaled AI solutions company serving manufacturing clients
+- Built end-to-end ML pipelines from research to production deployment
+
+📊 **Manufacturing Analytics**
+- Production-grade dashboards for OEE optimization and predictive maintenance
+- Time series forecasting models reducing downtime by identifying failure patterns
+- Automated reporting systems saving hours of manual analysis weekly
+
+🤖 **AI Innovation**
+- Vision Language Model fine-tuning for financial document processing
+- Anomaly detection systems for quality control in manufacturing
+- Integration of AutoML frameworks for rapid client prototyping
+
+💼 **Technical Leadership**
+- Team infrastructure setup (CI/CD, development workflows, documentation)
+- Migrated teams from Kanban to Scrum, improving delivery velocity
+- Created reusable knowledge bases for AI agent deployment
 
 ---
 
-## 📫 Let's Connect!
+## 🧪 Research Interests
 
-I'm always interested in collaborating on AI/ML projects, discussing data science challenges, or just connecting with fellow tech enthusiasts.
+I'm passionate about bridging the gap between ML research and production systems:
 
-- 📧 **Email:** gopalpadhi8@hotmail.com
-- 🐦 **Twitter:** [@i_am_gops_](https://twitter.com/i_am_gops_)
-- 💼 **LinkedIn:** [gopal-padhi](https://linkedin.com/in/gopal-padhi)
-- 📊 **Kaggle:** [gopalpadhi](https://kaggle.com/gopalpadhi)
+- **Vision Language Models**: Document understanding, OCR alternatives, multimodal AI
+- **Time Series Analytics**: Forecasting, anomaly detection, pattern recognition in manufacturing
+- **MLOps at Scale**: Deployment strategies, model monitoring, automated retraining
+- **AI in Finance**: Bias detection in lending models, mortgage underwriting automation
+
+---
+
+## 📫 Let's Connect
+
+Open to discussing AI/ML projects, manufacturing analytics challenges, or collaboration opportunities.
+
+**Professional**
+- 📧 Email: gopalpadhi8@hotmail.com
+- 💼 LinkedIn: [gopal-padhi](https://linkedin.com/in/gopal-padhi)
+
+**Community**
+- 🐦 Twitter: [@i_am_gops_](https://twitter.com/i_am_gops_)
+- 📊 Kaggle: [gopalpadhi](https://kaggle.com/gopalpadhi)
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  *"The best ML models are the ones actually running in production"*
   
   ### ⭐ From [MrNemes1s](https://github.com/MrNemes1s)
+  
 </div>
