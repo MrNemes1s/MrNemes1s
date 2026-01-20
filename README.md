@@ -1,29 +1,33 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding Animation" width="500" />
   
-  # Hi there, I'm Gopal Padhi 👋
-  
-  ### Machine Learning Engineer | AI Solutions Architect | Founder @ RevonexLabs
-  
-  <p>
-    <a href="https://twitter.com/i_am_gops_">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://linkedin.com/in/gopal-padhi">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://kaggle.com/gopalpadhi">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-    <a href="mailto:gopalpadhi8@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=gops-8&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+# Hi there, I'm Gopal Padhi 👋
+
+### Machine Learning Engineer | AI Solutions Architect | Founder @ RevonexLabs
+
+<p>
+  <a href="https://twitter.com/i_am_gops_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/gopal-padhi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/gopalpadhi">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:gopalpadhi8@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=gops-8&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🚀 About Me
 
@@ -34,6 +38,15 @@
 - 🧪 **Experimentation**: Time series forecasting, anomaly detection, AutoML frameworks
 - 🎮 **Side Quest**: Avid gamer with a high-end streaming setup
 - 💬 **Let's talk**: Generative AI, MLOps, Manufacturing Analytics, or your next ML project
+
+</td>
+<td width="50%">
+
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding Animation" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,12 +62,18 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Cloud & Production
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Analytics & Visualization
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20B2AA?style=for-the-badge&logo=apache&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -95,39 +114,38 @@ class CurrentWork:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?theme=radical&user=MrNemes1s&hide_border=true" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
   
-  ### 🔥 Most Active in Research & Prototyping
-  *My public repos focus on experimentation and ML research - production code lives in private client repositories*
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=495)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MrNemes1s&theme=radical&hide_border=true&card_width=495)
+
+### 🔥 Most Active in Research & Prototyping
+*My public repos focus on experimentation and ML research - production code lives in private client repositories*
+
 </div>
 
 ---
 
 ## 🏆 Key Achievements
 
-🚀 **RevonexLabs Leadership**
+**🚀 RevonexLabs Leadership**
 - Founded and scaled AI solutions company serving manufacturing clients
 - Built end-to-end ML pipelines from research to production deployment
 
-📊 **Manufacturing Analytics**
+**📊 Manufacturing Analytics**
 - Production-grade dashboards for OEE optimization and predictive maintenance
 - Time series forecasting models reducing downtime by identifying failure patterns
 - Automated reporting systems saving hours of manual analysis weekly
 
-🤖 **AI Innovation**
+**🤖 AI Innovation**
 - Vision Language Model fine-tuning for financial document processing
 - Anomaly detection systems for quality control in manufacturing
 - Integration of AutoML frameworks for rapid client prototyping
 
-💼 **Technical Leadership**
+**💼 Technical Leadership**
 - Team infrastructure setup (CI/CD, development workflows, documentation)
 - Migrated teams from Kanban to Scrum, improving delivery velocity
 - Created reusable knowledge bases for AI agent deployment
