@@ -163,6 +163,47 @@ Bridging the gap between cutting-edge AI research and real-world production syst
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemes1s&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MrNemes1s&theme=radical&hide_border=true)
+
+### 💡 Focus Areas
+*My GitHub showcases research prototypes, AI agent experiments, and open-source contributions. Production ML systems and client work live in private repositories.*
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### [Stock Analysis AI Agent](https://github.com/MrNemes1s/stock_analysis_ai_agent)
+Multi-agent AI system for comprehensive stock market analysis. Implements autonomous agents that collaborate to analyze market trends, financial data, and provide investment insights.
+- **Tech Stack**: Python, LangChain, Multi-Agent Orchestration
+- **Key Features**: Autonomous research, collaborative decision-making, real-time market analysis
+
+### [Elom Nusk Agent](https://github.com/MrNemes1s/Elom-Nusk-Agent)
+AI-powered Scrum Master that automates project management workflows. Let the agent handle the boring stuff while you focus on building.
+- **Tech Stack**: Python, AI Automation
+- **Key Features**: Sprint planning automation, standup management, task prioritization
+
+### [Fine-tuning VLMs](https://github.com/MrNemes1s/Finetuning_vlms)
+Research and experimentation with Vision Language Models (VLMs) fine-tuning for specialized tasks. Focus on optimizing Qwen2.5-VL for document understanding and extraction.
+- **Tech Stack**: PyTorch, Hugging Face, Jupyter
+- **Key Features**: Custom training pipelines, model optimization, evaluation frameworks
+
+### [Smart Assistant](https://github.com/MrNemes1s/Smart_assistant)
+Intelligent personal assistant leveraging LLMs and RAG for context-aware task automation and information retrieval.
+- **Tech Stack**: Python, LangChain, RAG Architecture
+- **Key Features**: Context understanding, multi-modal interaction, tool integration
+
+---
+
 ## 📫 Let's Connect
 
 Always interested in discussing AI agents, knowledge graphs, RAG architectures, or collaboration on challenging ML problems.
