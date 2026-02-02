@@ -2,7 +2,7 @@
   
 # Hi there, I'm Gopal Padhi 👋
 
-### Machine Learning Engineer | AI Solutions Architect | Founder @ RevonexLabs
+### Machine Learning Engineer | AI Solutions Architect | Agentic AI Developer
 
 <p>
   <a href="https://twitter.com/i_am_gops_">
@@ -31,13 +31,14 @@
 
 ## 🚀 About Me
 
-**Founder & Leader of RevonexLabs** - Building AI-powered solutions for manufacturing analytics and enterprise data science. I specialize in transforming complex data challenges into production-ready ML systems.
+Senior ML Engineer building **AI-powered solutions** for manufacturing analytics and enterprise intelligence. I specialize in **agentic AI systems**, knowledge graphs, and transforming complex data into production-ready ML platforms.
 
-- 🔬 **Research & Prototyping**: Exploring Vision Language Models (Qwen2.5-VL) for document extraction
+- 🤖 **Agentic AI Development**: Building autonomous agents with reasoning, planning, and tool use capabilities
+- 🧠 **Knowledge Graph AI**: Creating universal intelligence layers connecting manufacturing data, processes, and insights
+- 🔬 **Vision Language Models**: Exploring Qwen2.5-VL for document extraction and multimodal understanding
 - 🏭 **Production Systems**: Manufacturing analytics dashboards, OEE optimization, predictive maintenance
-- 🧪 **Experimentation**: Time series forecasting, anomaly detection, AutoML frameworks
 - 🎮 **Side Quest**: Avid gamer with a high-end streaming setup
-- 💬 **Let's talk**: Generative AI, MLOps, Manufacturing Analytics, or your next ML project
+- 💬 **Let's talk**: Agentic AI, RAG systems, Knowledge Graphs, MLOps, or your next ML challenge
 
 </td>
 <td width="50%">
@@ -57,9 +58,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ML & Data Science
+### ML & AI Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -78,94 +80,92 @@
 ---
 
 ## 💼 Current Focus
+
 ```python
 class CurrentWork:
     def __init__(self):
-        self.company = "RevonexLabs"
-        self.clients = ["HTT", "Golgix"]
+        self.role = "Senior ML Engineer"
+        self.focus = "Agentic AI & Knowledge Graph Systems"
         
     def active_projects(self):
         return {
+            "agentic_ai": {
+                "systems": "Smart AI agents with reasoning & planning",
+                "rag_architecture": "Advanced retrieval systems with multi-hop reasoning",
+                "tools": "LangChain, LlamaIndex, custom agent frameworks",
+                "capabilities": "Autonomous decision-making, tool orchestration"
+            },
+            "knowledge_graphs": {
+                "project": "Universal Manufacturing Intelligence Layer",
+                "description": "Graph-based knowledge system connecting processes, metrics, and insights",
+                "stack": "Neo4j, NetworkX, custom graph embeddings",
+                "use_cases": "Context-aware querying, relationship discovery, semantic search"
+            },
             "ai_research": {
-                "model": "Qwen2.5-VL",
-                "task": "Financial document extraction & fine-tuning",
-                "focus": "Accuracy optimization for production deployment"
+                "models": "Qwen2.5-VL, LLaMA, Claude",
+                "tasks": "Document extraction, fine-tuning, multimodal understanding",
+                "deployment": "Production-grade inference optimization"
             },
             "manufacturing_analytics": {
-                "dashboards": "Apache Superset with Handlebars templating",
-                "metrics": "OEE, downtime tracking, production forecasting",
-                "automation": "Automated reporting & anomaly detection"
-            },
-            "infrastructure": {
-                "deployment": "Cloudflare Pages, Azure ML pipelines",
-                "workflows": "CI/CD automation, git worktree workflows",
-                "stack": "Python, SQL, Docker, cloud services"
+                "dashboards": "Apache Superset with intelligent alerting",
+                "metrics": "OEE tracking, downtime analysis, predictive maintenance",
+                "automation": "AI-driven anomaly detection & forecasting"
             }
         }
     
     def get_expertise(self):
         return [
+            "Agentic AI Systems & Autonomous Agents",
+            "Retrieval-Augmented Generation (RAG)",
+            "Knowledge Graph Engineering",
             "Vision Language Models & Fine-tuning",
             "Manufacturing Analytics & Time Series",
-            "MLOps & Model Deployment",
-            "Data Engineering & Pipeline Design"
+            "MLOps & Production Deployment"
         ]
 ```
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=495)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MrNemes1s&theme=radical&hide_border=true&card_width=495)
-
-### 🔥 Most Active in Research & Prototyping
-*My public repos focus on experimentation and ML research - production code lives in private client repositories*
-
-</div>
-
----
-
-## 🏆 Key Achievements
-
-**🚀 RevonexLabs Leadership**
-- Founded and scaled AI solutions company serving manufacturing clients
-- Built end-to-end ML pipelines from research to production deployment
-
-**📊 Manufacturing Analytics**
-- Production-grade dashboards for OEE optimization and predictive maintenance
-- Time series forecasting models reducing downtime by identifying failure patterns
-- Automated reporting systems saving hours of manual analysis weekly
-
-**🤖 AI Innovation**
-- Vision Language Model fine-tuning for financial document processing
-- Anomaly detection systems for quality control in manufacturing
-- Integration of AutoML frameworks for rapid client prototyping
-
-**💼 Technical Leadership**
-- Team infrastructure setup (CI/CD, development workflows, documentation)
-- Migrated teams from Kanban to Scrum, improving delivery velocity
-- Created reusable knowledge bases for AI agent deployment
-
----
-
 ## 🧪 Research Interests
 
-I'm passionate about bridging the gap between ML research and production systems:
+Bridging the gap between cutting-edge AI research and real-world production systems:
 
-- **Vision Language Models**: Document understanding, OCR alternatives, multimodal AI
-- **Time Series Analytics**: Forecasting, anomaly detection, pattern recognition in manufacturing
-- **MLOps at Scale**: Deployment strategies, model monitoring, automated retraining
-- **AI in Finance**: Bias detection in lending models, mortgage underwriting automation
+- **Agentic AI**: Multi-agent systems, reasoning frameworks, tool use, planning algorithms
+- **Knowledge Graphs**: Graph neural networks, semantic reasoning, intelligent data connectivity
+- **Advanced RAG**: Multi-hop retrieval, hybrid search, context optimization, query understanding
+- **Vision Language Models**: Document understanding, OCR alternatives, multimodal reasoning
+- **Time Series at Scale**: Forecasting, anomaly detection, pattern recognition in manufacturing
+- **MLOps Excellence**: Deployment strategies, model monitoring, automated retraining pipelines
+
+---
+
+## 🎯 Specializations
+
+**🤖 Agentic AI Development**
+- Designing autonomous agents that reason, plan, and execute complex tasks
+- Building RAG systems with advanced retrieval strategies and context management
+- Creating tool-using agents that integrate with external APIs and databases
+
+**🧠 Knowledge Graph Intelligence**
+- Architecting graph-based knowledge systems for manufacturing domains
+- Implementing semantic search and relationship discovery across complex data
+- Building the foundation for context-aware AI that understands connections
+
+**🏭 Manufacturing AI**
+- Production-grade analytics dashboards with real-time monitoring
+- Time series forecasting models for predictive maintenance
+- Automated quality control using computer vision and anomaly detection
+
+**💡 Innovation & Deployment**
+- Fine-tuning large language models for specialized domains
+- Optimizing inference for production at scale
+- Rapid prototyping and iterative development of AI solutions
 
 ---
 
 ## 📫 Let's Connect
 
-Open to discussing AI/ML projects, manufacturing analytics challenges, or collaboration opportunities.
+Always interested in discussing AI agents, knowledge graphs, RAG architectures, or collaboration on challenging ML problems.
 
 **Professional**
 - 📧 Email: gopalpadhi8@hotmail.com
@@ -179,7 +179,7 @@ Open to discussing AI/ML projects, manufacturing analytics challenges, or collab
 
 <div align="center">
   
-  *"The best ML models are the ones actually running in production"*
+  *"The best AI agents are the ones solving real problems autonomously"*
   
   ### ⭐ From [MrNemes1s](https://github.com/MrNemes1s)
   
