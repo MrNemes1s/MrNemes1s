@@ -167,11 +167,11 @@ Bridging the gap between cutting-edge AI research and real-world production syst
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemes1s&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemes1s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrNemes1s&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNemes1s&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 ### 💡 Focus Areas
 *My GitHub showcases research prototypes, AI agent experiments, and open-source contributions. Production ML systems and client work live in private repositories.*
