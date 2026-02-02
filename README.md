@@ -163,20 +163,27 @@ Bridging the gap between cutting-edge AI research and real-world production syst
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrNemes1s&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemes1s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+[![Gopal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrNemes1s&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNemes1s&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+### 🔥 Current Contributions
+
+<div align="center">
+
+| 📦 **43** Public Repos | ⭐ **4** Stars | 👥 **11** Followers | 🔄 **10** Following |
+|:---:|:---:|:---:|:---:|
+
+</div>
 
 ### 💡 Focus Areas
 *My GitHub showcases research prototypes, AI agent experiments, and open-source contributions. Production ML systems and client work live in private repositories.*
-
-</div>
 
 ---
 
