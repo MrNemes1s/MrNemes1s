@@ -163,51 +163,88 @@ Bridging the gap between cutting-edge AI research and real-world production syst
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Contributions
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrNemes1s&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔥 At a Glance
 
-[![Gopal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrNemes1s&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-### 🔥 Current Contributions
-
-<div align="center">
-
-| 📦 **43** Public Repos | ⭐ **4** Stars | 👥 **11** Followers | 🔄 **10** Following |
-|:---:|:---:|:---:|:---:|
+| Metric | Count |
+|:---|:---:|
+| 📦 Public Repositories | **43** |
+| ⭐ Stars Received | **4** |
+| 👥 Followers | **11** |
+| 🔄 Following | **10** |
+| 🏆 GitHub Achievements | **Pair Extraordinaire x2, YOLO, Quickdraw, Pull Shark x2** |
 
 </div>
 
-### 💡 Focus Areas
-*My GitHub showcases research prototypes, AI agent experiments, and open-source contributions. Production ML systems and client work live in private repositories.*
+### 💻 Primary Languages & Tools
+
+```text
+Python       ████████████████████░░░░░   85%   (AI/ML, Automation, Data Science)
+Jupyter      ███████░░░░░░░░░░░░░░░░░░   28%   (Research, Experimentation)
+JavaScript   ████░░░░░░░░░░░░░░░░░░░░░   15%   (Web Development, UI/UX)
+TypeScript   ███░░░░░░░░░░░░░░░░░░░░░░   12%   (Full-stack Applications)
+HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░   08%   (Frontend Development)
+```
+
+### 💡 Development Focus
+- **Research & Prototyping**: Agentic AI systems, RAG architectures, Knowledge Graphs
+- **Production Work**: Manufacturing analytics, ML pipelines (in private repositories)
+- **Open Source**: AI agent experiments, VLM fine-tuning, automation tools
+- **Active Areas**: Multi-agent systems, LangChain, PyTorch, Hugging Face
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Stock Analysis AI Agent](https://github.com/MrNemes1s/stock_analysis_ai_agent)
-Multi-agent AI system for comprehensive stock market analysis. Implements autonomous agents that collaborate to analyze market trends, financial data, and provide investment insights.
-- **Tech Stack**: Python, LangChain, Multi-Agent Orchestration
-- **Key Features**: Autonomous research, collaborative decision-making, real-time market analysis
+<table>
+<tr>
+<td width="50%">
 
-### [Elom Nusk Agent](https://github.com/MrNemes1s/Elom-Nusk-Agent)
-AI-powered Scrum Master that automates project management workflows. Let the agent handle the boring stuff while you focus on building.
-- **Tech Stack**: Python, AI Automation
-- **Key Features**: Sprint planning automation, standup management, task prioritization
+### 🤖 [Stock Analysis AI Agent](https://github.com/MrNemes1s/stock_analysis_ai_agent)
 
-### [Fine-tuning VLMs](https://github.com/MrNemes1s/Finetuning_vlms)
-Research and experimentation with Vision Language Models (VLMs) fine-tuning for specialized tasks. Focus on optimizing Qwen2.5-VL for document understanding and extraction.
-- **Tech Stack**: PyTorch, Hugging Face, Jupyter
-- **Key Features**: Custom training pipelines, model optimization, evaluation frameworks
+Multi-agent AI system for comprehensive stock market analysis. Autonomous agents collaborate to analyze market trends, financial data, and provide investment insights.
 
-### [Smart Assistant](https://github.com/MrNemes1s/Smart_assistant)
+**Stack**: Python, LangChain, Multi-Agent Orchestration  
+**Highlights**: Autonomous research, collaborative decision-making, real-time analysis
+
+</td>
+<td width="50%">
+
+### 🎯 [Elom Nusk Agent](https://github.com/MrNemes1s/Elom-Nusk-Agent)
+
+AI-powered Scrum Master automating project management workflows. Handles sprint planning, standups, and task prioritization autonomously.
+
+**Stack**: Python, AI Automation  
+**Highlights**: Sprint automation, standup management, intelligent task prioritization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔬 [Fine-tuning VLMs](https://github.com/MrNemes1s/Finetuning_vlms)
+
+Research and experimentation with Vision Language Models fine-tuning. Focus on optimizing Qwen2.5-VL for document understanding and extraction.
+
+**Stack**: PyTorch, Hugging Face, Jupyter  
+**Highlights**: Custom training pipelines, model optimization, evaluation frameworks
+
+</td>
+<td width="50%">
+
+### 💬 [Smart Assistant](https://github.com/MrNemes1s/Smart_assistant)
+
 Intelligent personal assistant leveraging LLMs and RAG for context-aware task automation and information retrieval.
-- **Tech Stack**: Python, LangChain, RAG Architecture
-- **Key Features**: Context understanding, multi-modal interaction, tool integration
+
+**Stack**: Python, LangChain, RAG Architecture  
+**Highlights**: Context understanding, multi-modal interaction, tool integration
+
+</td>
+</tr>
+</table>
 
 ---
 
