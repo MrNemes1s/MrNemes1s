@@ -19,7 +19,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C3EE6&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+for+manufacturing;RAG+%2B+Knowledge+Graphs+%2B+LLMs+in+production;Turning+OPC-UA+historian+data+into+decisions;Ethanol+plants+%E2%86%92+AI-powered+intelligence" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=MrN3mes1s&label=Profile%20Views&color=6C3EE6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=MrNemes1s&label=Profile%20Views&color=6C3EE6&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -193,7 +193,7 @@ A context-aware personal assistant built on RAG, handling multi-turn task automa
 ## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrN3mes1s&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNemes1s&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 <br/>
