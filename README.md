@@ -1,271 +1,214 @@
 <div align="center">
-  
-# Hi there, I'm Gopal Padhi 👋
 
-### Machine Learning Engineer | AI Solutions Architect | Agentic AI Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6C3EE6&height=220&section=header&text=Gopal%20Padhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Systems%20Architecture&descAlignY=55&descSize=18" width="100%"/>
 
-<p>
-  <a href="https://twitter.com/i_am_gops_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/gopal-padhi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/gopalpadhi">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:gopalpadhi8@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/gopal-padhi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/i_am_gops_">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://kaggle.com/gopalpadhi">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="mailto:gopalpadhi8@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=gops-8&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C3EE6&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+for+manufacturing;RAG+%2B+Knowledge+Graphs+%2B+LLMs+in+production;Turning+OPC-UA+historian+data+into+decisions;Ethanol+plants+%E2%86%92+AI-powered+intelligence" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=MrN3mes1s&label=Profile%20Views&color=6C3EE6&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-<table>
-<tr>
-<td width="50%">
+## About Me
 
-## 🚀 About Me
+I'm a Lead AI Engineer running **Golgix AI**, where I build agentic AI systems that turn raw manufacturing data into decisions — for ethanol plants and discrete manufacturers. I also consult independently through **Revonex**, and lead a small engineering team across the full stack — from data pipelines to the interfaces people actually use.
 
-Senior ML Engineer building **AI-powered solutions** for manufacturing analytics and enterprise intelligence. I specialize in **agentic AI systems**, knowledge graphs, and transforming complex data into production-ready ML platforms.
+Most days I'm somewhere between production RAG pipelines, knowledge graph design, and getting a team of engineers unstuck.
 
-- 🤖 **Agentic AI Development**: Building autonomous agents with reasoning, planning, and tool use capabilities
-- 🧠 **Knowledge Graph AI**: Creating universal intelligence layers connecting manufacturing data, processes, and insights
-- 🔬 **Vision Language Models**: Exploring Qwen2.5-VL for document extraction and multimodal understanding
-- 🏭 **Production Systems**: Manufacturing analytics dashboards, OEE optimization, predictive maintenance
-- 🎮 **Side Quest**: Avid gamer with a high-end streaming setup
-- 💬 **Let's talk**: Agentic AI, RAG systems, Knowledge Graphs, MLOps, or your next ML challenge
+- **Agentic AI** — autonomous agents that reason over process data, not just chat
+- **Knowledge graphs** — connecting plant processes, sensor streams, and domain knowledge into something queryable
+- **RAG systems** — retrieval architectures built for industrial, not consumer, data
+- **Manufacturing analytics** — OPC-UA historian pipelines, Superset dashboards, forecasting
+- Outside of work: CS2, PC hardware, and a Fujifilm X-T200 that mostly photographs my desk setup
 
-</td>
-<td width="50%">
+<br/>
 
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding Animation" width="100%" />
+## Tech Stack
 
-</td>
-</tr>
-</table>
+**AI / ML**
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI/ML Skills"/>
+<br/><br/>
 
-### Core Expertise
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ML & AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Cloud & Production
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-### Analytics & Visualization
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20B2AA?style=for-the-badge&logo=apache&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend**
 
----
+<div align="center">
 
-## 💼 Current Focus
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,postgres,mysql,redis,docker,kubernetes&theme=dark" alt="Backend Skills"/>
+<br/><br/>
+
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+</div>
+
+**Frontend**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" alt="Frontend Skills"/>
+
+</div>
+
+**Cloud, Infra & Architecture**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,git,terraform,grafana&theme=dark" alt="Infra Skills"/>
+
+</div>
+
+<br/>
+
+## Systems & Architecture
+
+Design work spans well beyond model training — the parts that actually keep production systems alive:
+
+| Area | What I design |
+|---|---|
+| **Agentic architecture** | Multi-agent orchestration, tool-use routing, planner/executor patterns, guardrails for autonomous decisions |
+| **RAG & retrieval** | Hybrid search, multi-hop retrieval, chunking/embedding strategy, re-ranking pipelines |
+| **Knowledge graphs** | Schema design, entity resolution, graph embeddings, semantic query layers |
+| **Data platform** | OPC-UA historian ingestion, event-driven pipelines, time-series storage strategy |
+| **API & service layer** | REST/gRPC service boundaries, async task orchestration, auth & rate limiting |
+| **MLOps** | CI-integrated eval (Evidently), model monitoring, deployment strategy, rollback safety |
+| **Observability** | Structured logging, CloudWatch pipelines, dashboarding for both infra and model health |
+
+<br/>
+
+## What I'm Building Right Now
 
 ```python
-class CurrentWork:
+class GolgixAI:
+    """Current focus areas — updated as things actually ship."""
+
     def __init__(self):
-        self.role = "Senior ML Engineer"
-        self.focus = "Agentic AI & Knowledge Graph Systems"
-        
-    def active_projects(self):
+        self.role = "Lead AI Engineer / Founder"
+        self.stack = ["Python", "LlamaIndex", "Azure", "OPC-UA", "Superset"]
+
+    def active_projects(self) -> dict:
         return {
-            "agentic_ai": {
-                "systems": "Smart AI agents with reasoning & planning",
-                "rag_architecture": "Advanced retrieval systems with multi-hop reasoning",
-                "tools": "LangChain, LlamaIndex, custom agent frameworks",
-                "capabilities": "Autonomous decision-making, tool orchestration"
-            },
-            "knowledge_graphs": {
-                "project": "Universal Manufacturing Intelligence Layer",
-                "description": "Graph-based knowledge system connecting processes, metrics, and insights",
-                "stack": "Neo4j, NetworkX, custom graph embeddings",
-                "use_cases": "Context-aware querying, relationship discovery, semantic search"
-            },
-            "ai_research": {
-                "models": "Qwen2.5-VL, LLaMA, Claude",
-                "tasks": "Document extraction, fine-tuning, multimodal understanding",
-                "deployment": "Production-grade inference optimization"
-            },
-            "manufacturing_analytics": {
-                "dashboards": "Apache Superset with intelligent alerting",
-                "metrics": "OEE tracking, downtime analysis, predictive maintenance",
-                "automation": "AI-driven anomaly detection & forecasting"
-            }
+            "agentic_slack_bots": "Automated weekly deep-dive digests across ethanol accounts",
+            "text_to_sql_agent": "Slack-sourced knowledge base -> SQL over plant data",
+            "knowledge_graphs": "Manufacturing intelligence layer connecting process + sensor data",
+            "domain_llm": "Distilling a 7B ethanol-reasoning model from a larger teacher model",
         }
-    
-    def get_expertise(self):
+
+    def currently_exploring(self) -> list[str]:
         return [
-            "Agentic AI Systems & Autonomous Agents",
-            "Retrieval-Augmented Generation (RAG)",
-            "Knowledge Graph Engineering",
-            "Vision Language Models & Fine-tuning",
-            "Manufacturing Analytics & Time Series",
-            "MLOps & Production Deployment"
+            "RAG vs. knowledge graphs for agentic reasoning",
+            "CI-integrated QA for LLM pipelines (Evidently)",
+            "Multi-hop retrieval over industrial time-series data",
         ]
 ```
 
----
+<br/>
 
-## 🧪 Research Interests
-
-Bridging the gap between cutting-edge AI research and real-world production systems:
-
-- **Agentic AI**: Multi-agent systems, reasoning frameworks, tool use, planning algorithms
-- **Knowledge Graphs**: Graph neural networks, semantic reasoning, intelligent data connectivity
-- **Advanced RAG**: Multi-hop retrieval, hybrid search, context optimization, query understanding
-- **Vision Language Models**: Document understanding, OCR alternatives, multimodal reasoning
-- **Time Series at Scale**: Forecasting, anomaly detection, pattern recognition in manufacturing
-- **MLOps Excellence**: Deployment strategies, model monitoring, automated retraining pipelines
-
----
-
-## 🎯 Specializations
-
-**🤖 Agentic AI Development**
-- Designing autonomous agents that reason, plan, and execute complex tasks
-- Building RAG systems with advanced retrieval strategies and context management
-- Creating tool-using agents that integrate with external APIs and databases
-
-**🧠 Knowledge Graph Intelligence**
-- Architecting graph-based knowledge systems for manufacturing domains
-- Implementing semantic search and relationship discovery across complex data
-- Building the foundation for context-aware AI that understands connections
-
-**🏭 Manufacturing AI**
-- Production-grade analytics dashboards with real-time monitoring
-- Time series forecasting models for predictive maintenance
-- Automated quality control using computer vision and anomaly detection
-
-**💡 Innovation & Deployment**
-- Fine-tuning large language models for specialized domains
-- Optimizing inference for production at scale
-- Rapid prototyping and iterative development of AI solutions
-
----
-
-## 📊 GitHub Activity & Contributions
+## GitHub Stats
 
 <div align="center">
 
-### 🔥 At a Glance
+<img src="https://github-readme-stats.vercel.app/api?username=MrN3mes1s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrN3mes1s&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-| Metric | Count |
-|:---|:---:|
-| 📦 Public Repositories | **43** |
-| ⭐ Stars Received | **4** |
-| 👥 Followers | **11** |
-| 🔄 Following | **10** |
-| 🏆 GitHub Achievements | **Pair Extraordinaire x2, YOLO, Quickdraw, Pull Shark x2** |
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrN3mes1s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
-### 💻 Primary Languages & Tools
+<br/>
 
-```text
-Python       ████████████████████░░░░░   85%   (AI/ML, Automation, Data Science)
-Jupyter      ███████░░░░░░░░░░░░░░░░░░   28%   (Research, Experimentation)
-JavaScript   ████░░░░░░░░░░░░░░░░░░░░░   15%   (Web Development, UI/UX)
-TypeScript   ███░░░░░░░░░░░░░░░░░░░░░░   12%   (Full-stack Applications)
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░   08%   (Frontend Development)
-```
+## Featured Projects
 
-### 💡 Development Focus
-- **Research & Prototyping**: Agentic AI systems, RAG architectures, Knowledge Graphs
-- **Production Work**: Manufacturing analytics, ML pipelines (in private repositories)
-- **Open Source**: AI agent experiments, VLM fine-tuning, automation tools
-- **Active Areas**: Multi-agent systems, LangChain, PyTorch, Hugging Face
-
----
-
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 [Stock Analysis AI Agent](https://github.com/MrNemes1s/stock_analysis_ai_agent)
+Multi-agent system where autonomous agents collaborate on market research, financial analysis, and investment insight generation.
 
-Multi-agent AI system for comprehensive stock market analysis. Autonomous agents collaborate to analyze market trends, financial data, and provide investment insights.
-
-**Stack**: Python, LangChain, Multi-Agent Orchestration  
-**Highlights**: Autonomous research, collaborative decision-making, real-time analysis
+`Python` `LangChain` `Multi-Agent Orchestration`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 [Elom Nusk Agent](https://github.com/MrNemes1s/Elom-Nusk-Agent)
+An AI Scrum Master that runs sprint planning, standups, and task prioritization without a human in the loop.
 
-AI-powered Scrum Master automating project management workflows. Handles sprint planning, standups, and task prioritization autonomously.
-
-**Stack**: Python, AI Automation  
-**Highlights**: Sprint automation, standup management, intelligent task prioritization
+`Python` `AI Automation`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 [Fine-tuning VLMs](https://github.com/MrNemes1s/Finetuning_vlms)
+Fine-tuning Qwen2.5-VL for document understanding and extraction — training pipelines, eval harnesses, the usual pain.
 
-Research and experimentation with Vision Language Models fine-tuning. Focus on optimizing Qwen2.5-VL for document understanding and extraction.
-
-**Stack**: PyTorch, Hugging Face, Jupyter  
-**Highlights**: Custom training pipelines, model optimization, evaluation frameworks
+`PyTorch` `Hugging Face` `Jupyter`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💬 [Smart Assistant](https://github.com/MrNemes1s/Smart_assistant)
+A context-aware personal assistant built on RAG, handling multi-turn task automation and information retrieval.
 
-Intelligent personal assistant leveraging LLMs and RAG for context-aware task automation and information retrieval.
-
-**Stack**: Python, LangChain, RAG Architecture  
-**Highlights**: Context understanding, multi-modal interaction, tool integration
+`Python` `LangChain` `RAG`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📫 Let's Connect
-
-Always interested in discussing AI agents, knowledge graphs, RAG architectures, or collaboration on challenging ML problems.
-
-**Professional**
-- 📧 Email: gopalpadhi8@hotmail.com
-- 💼 LinkedIn: [gopal-padhi](https://linkedin.com/in/gopal-padhi)
-
-**Community**
-- 🐦 Twitter: [@i_am_gops_](https://twitter.com/i_am_gops_)
-- 📊 Kaggle: [gopalpadhi](https://kaggle.com/gopalpadhi)
-
----
+## Contribution Activity
 
 <div align="center">
-  
-  *"The best AI agents are the ones solving real problems autonomously"*
-  
-  ### ⭐ From [MrNemes1s](https://github.com/MrNemes1s)
-  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrN3mes1s&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
+
+<br/>
+
+## Let's Connect
+
+Always up for a conversation about agentic AI, RAG architecture, knowledge graphs, or gnarly production ML problems.
+
+<div align="center">
+
+<a href="mailto:gopalpadhi8@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gopal-padhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/i_am_gops_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://kaggle.com/gopalpadhi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3EE6,100:0077B5&height=100&section=footer" width="100%"/>
