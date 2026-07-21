@@ -27,15 +27,15 @@
 
 ## About Me
 
-I'm a Lead AI Engineer running **Golgix AI**, where I build agentic AI systems that turn raw manufacturing data into decisions — for ethanol plants and discrete manufacturers. I also consult independently through **Revonex**, and lead a small engineering team across the full stack — from data pipelines to the interfaces people actually use.
+I'm a Lead AI Engineer @  **Golgix INC**, where I build agentic AI systems that turn raw manufacturing data into decisions . I also consult independently through **Revonex**, and lead a small engineering team across the full stack — from data pipelines to the interfaces people actually use.
 
 Most days I'm somewhere between production RAG pipelines, knowledge graph design, and getting a team of engineers unstuck.
 
 - **Agentic AI** — autonomous agents that reason over process data, not just chat
 - **Knowledge graphs** — connecting plant processes, sensor streams, and domain knowledge into something queryable
 - **RAG systems** — retrieval architectures built for industrial, not consumer, data
-- **Manufacturing analytics** — OPC-UA historian pipelines, Superset dashboards, forecasting
-- Outside of work: CS2, PC hardware, and a Fujifilm X-T200 that mostly photographs my desk setup
+- **Data analytics** —  Superset dashboards, forecasting , machine learning etc 
+- Outside of work: Play Counter Strike,Work on PC hardware 
 
 <br/>
 
@@ -99,7 +99,7 @@ Design work spans well beyond model training — the parts that actually keep pr
 | **Knowledge graphs** | Schema design, entity resolution, graph embeddings, semantic query layers |
 | **Data platform** | OPC-UA historian ingestion, event-driven pipelines, time-series storage strategy |
 | **API & service layer** | REST/gRPC service boundaries, async task orchestration, auth & rate limiting |
-| **MLOps** | CI-integrated eval (Evidently), model monitoring, deployment strategy, rollback safety |
+| **MLOps** | CI-integrated eval (Evidently), model monitoring(MLFLOW), deployment strategy, rollback safety |
 | **Observability** | Structured logging, CloudWatch pipelines, dashboarding for both infra and model health |
 
 <br/>
@@ -111,7 +111,7 @@ class GolgixAI:
     """Current focus areas — updated as things actually ship."""
 
     def __init__(self):
-        self.role = "Lead AI Engineer / Founder"
+        self.role = "Lead AI Engineer "
         self.stack = ["Python", "LlamaIndex", "Azure", "OPC-UA", "Superset"]
 
     def active_projects(self) -> dict:
