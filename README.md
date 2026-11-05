@@ -29,11 +29,11 @@ class Gopal:
     role      = "Lead AI Engineer @ Golgix AI"
     founder   = "Revonex — AI products & consulting"
     location  = "Bhubaneswar, Odisha, India"
-    exp_years = 10
+    exp_years = 13
 
     focus = [
         "Agentic AI systems",
-        "RAG pipelines & knowledge graphs",
+        "Knowledge graphs",
         "LLM apps that survive production",
     ]
 
