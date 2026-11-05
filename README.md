@@ -145,16 +145,17 @@ Experiments in **fine-tuning vision-language models**.
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrNemes1s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemes1s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/MrNemes1s/MrNemes1s/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrNemes1s&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/MrNemes1s/MrNemes1s/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
+  <img src="https://raw.githubusercontent.com/MrNemes1s/MrNemes1s/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNemes1s&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/MrNemes1s/MrNemes1s/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language" />
+  <img src="https://raw.githubusercontent.com/MrNemes1s/MrNemes1s/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language" />
 </p>
 
 ---
